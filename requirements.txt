@@ -1,4 +1,4 @@
-# create the the text file by using the pip command
+# using the pip command to create a requirements.txt file from the terminal
 pip install -r requirements.txt
 
 # To install the flask module <2.0 version by using the pip command
